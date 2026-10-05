@@ -1,0 +1,40 @@
+Categories:
+  - Multimedia
+  - Graphics
+License: GPL-3.0-or-later
+AuthorName: Lumen Gallery Contributors
+SourceCode: https://github.com/Dailhiso7/Lumen-Gallery
+IssueTracker: https://github.com/Dailhiso7/Lumen-Gallery/issues
+Changelog: https://github.com/Dailhiso7/Lumen-Gallery/releases
+
+Summary: Lightweight, privacy-first offline photo and video gallery
+Description: |-
+  Lumen Gallery is an ultra-lightweight, privacy-first, fully offline gallery
+  application built specifically to adhere to strict F-Droid inclusion standards.
+
+  Features:
+  * 100% Offline: No INTERNET permission declared in AndroidManifest.xml.
+  * Zero proprietary dependencies, no Firebase, and no telemetry or ads.
+  * Share Without Metadata: Strip EXIF, GPS location, and camera parameters before sharing.
+  * Chronological timeline grid with dynamic pinch-to-zoom (2 to 5 columns).
+  * Albums view grouped by physical on-device folders.
+  * Favorites and built-in trash with restore and permanent deletion.
+  * Lightweight local video player powered by Media3 ExoPlayer.
+  * Detailed EXIF metadata inspector.
+  * Multilingual support with 10 native translations.
+
+RepoType: git
+Repo: https://github.com/Dailhiso7/Lumen-Gallery.git
+
+Builds:
+  - versionName: 1.0.0
+    versionCode: 1
+    commit: v1.0.0
+    subdir: app
+    gradle:
+      - yes
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.0.0
+CurrentVersionCode: 1

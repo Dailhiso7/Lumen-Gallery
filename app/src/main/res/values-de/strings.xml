@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Lumen Gallery</string>
+    <string name="nav_timeline">Zeitleiste</string>
+    <string name="nav_albums">Alben</string>
+    <string name="nav_favorites">Favoriten</string>
+    
+    <string name="permission_required_title">Speicherberechtigung erforderlich</string>
+    <string name="permission_required_desc">Lumen Gallery funktioniert vollständig offline und benötigt die Berechtigung für den Zugriff auf Ihre lokalen Fotos und Videos.</string>
+    <string name="grant_permission">Zugriff gewähren</string>
+    
+    <string name="empty_gallery">Keine Fotos oder Videos gefunden</string>
+    <string name="empty_favorites">Noch keine Favoriten vorhanden</string>
+    <string name="empty_albums">Keine Alben gefunden</string>
+    
+    <string name="action_share">Teilen</string>
+    <string name="action_share_clean">Ohne Metadaten teilen</string>
+    <string name="action_share_clean_desc">Entfernt EXIF, GPS-Standort, Kameramodell und Gerätedaten vor dem Teilen.</string>
+    <string name="action_favorite">Favorit</string>
+    <string name="action_unfavorite">Aus Favoriten entfernen</string>
+    <string name="action_details">Eigenschaften</string>
+    <string name="action_delete">Löschen</string>
+    <string name="action_rename">Umbenennen</string>
+    
+    <string name="delete_confirm_title">Element löschen?</string>
+    <string name="delete_confirm_message">Dieses Element wird in den Papierkorb verschoben oder gelöscht.</string>
+    <string name="confirm_delete">Löschen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="save">Speichern</string>
+    <string name="rename_title">Datei umbenennen</string>
+    
+    <!-- EXIF dialog labels -->
+    <string name="exif_title">Details</string>
+    <string name="exif_date">Datum &amp; Uhrzeit</string>
+    <string name="exif_camera">Kamera</string>
+    <string name="exif_parameters">Aufnahmeparameter</string>
+    <string name="exif_resolution">Auflösung</string>
+    <string name="exif_file_size">Dateigröße</string>
+    <string name="exif_file_path">Pfad</string>
+    <string name="exif_location">Standort</string>
+    <string name="exif_no_location">Keine GPS-Daten eingebettet</string>
+
+    <!-- Date headers -->
+    <string name="header_today">Heute</string>
+    <string name="header_yesterday">Gestern</string>
+
+    <!-- Settings & Language -->
+    <string name="settings_title">Einstellungen</string>
+    <string name="settings_language">Sprache</string>
+    <string name="settings_trash_desc">Gelöschte Elemente anzeigen und verwalten</string>
+    <string name="settings_source_code">Quellcode</string>
+    <string name="settings_source_code_desc">Repository auf GitHub öffnen</string>
+    <string name="settings_about">Über Lumen Gallery</string>
+    <string name="settings_about_desc">Version 1.0.0 • GPLv3</string>
+
+    <!-- Restart dialog -->
+    <string name="restart_dialog_title">Neustart erforderlich</string>
+    <string name="restart_dialog_message">Ein Neustart ist erforderlich, um die ausgewählte Sprache anzuwenden.</string>
+    <string name="restart_action">Jetzt neu starten</string>
+    <string name="later_action">Später</string>
+
+    <!-- Trash -->
+    <string name="trash_title">Papierkorb</string>
+    <string name="empty_trash">Papierkorb ist leer</string>
+    <string name="action_restore">Wiederherstellen</string>
+    <string name="action_delete_permanently">Dauerhaft löschen</string>
+    <string name="empty_trash_action">Papierkorb leeren</string>
+    <string name="delete_permanent_confirm_title">Dauerhaft löschen?</string>
+    <string name="delete_permanent_confirm_message">Diese Datei wird unwiderruflich von Ihrem Gerät gelöscht.</string>
+    <string name="empty_trash_confirm_message">Möchten Sie wirklich alle Elemente im Papierkorb dauerhaft löschen?</string>
+</resources>

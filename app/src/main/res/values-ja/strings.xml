@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Lumen Gallery</string>
+    <string name="nav_timeline">タイムライン</string>
+    <string name="nav_albums">アルバム</string>
+    <string name="nav_favorites">お気に入り</string>
+    
+    <string name="permission_required_title">ストレージへのアクセス許可が必要です</string>
+    <string name="permission_required_desc">Lumen Gallery は完全にオフラインで動作し、このデバイスの写真や動画にアクセスするための許可が必要です。</string>
+    <string name="grant_permission">アクセスを許可</string>
+    
+    <string name="empty_gallery">写真や動画が見つかりません</string>
+    <string name="empty_favorites">お気に入りはまだありません</string>
+    <string name="empty_albums">アルバムが見つかりません</string>
+    
+    <string name="action_share">共有</string>
+    <string name="action_share_clean">メタデータなしで共有</string>
+    <string name="action_share_clean_desc">共有前にEXIF、GPS位置情報、カメラの機種情報などを削除します。</string>
+    <string name="action_favorite">お気に入りに追加</string>
+    <string name="action_unfavorite">お気に入りから削除</string>
+    <string name="action_details">詳細情報</string>
+    <string name="action_delete">削除</string>
+    <string name="action_rename">名前を変更</string>
+    
+    <string name="delete_confirm_title">項目を削除しますか？</string>
+    <string name="delete_confirm_message">この項目はゴミ箱に移動されるか削除されます。</string>
+    <string name="confirm_delete">削除</string>
+    <string name="cancel">キャンセル</string>
+    <string name="save">保存</string>
+    <string name="rename_title">ファイル名の変更</string>
+    
+    <!-- EXIF dialog labels -->
+    <string name="exif_title">詳細</string>
+    <string name="exif_date">日時</string>
+    <string name="exif_camera">カメラ</string>
+    <string name="exif_parameters">撮影パラメータ</string>
+    <string name="exif_resolution">解像度</string>
+    <string name="exif_file_size">ファイルサイズ</string>
+    <string name="exif_file_path">パス</string>
+    <string name="exif_location">位置情報</string>
+    <string name="exif_no_location">GPSデータなし</string>
+
+    <!-- Date headers -->
+    <string name="header_today">今日</string>
+    <string name="header_yesterday">昨日</string>
+
+    <!-- Settings & Language -->
+    <string name="settings_title">設定</string>
+    <string name="settings_language">言語</string>
+    <string name="settings_trash_desc">削除した項目の表示と管理</string>
+    <string name="settings_source_code">ソースコード</string>
+    <string name="settings_source_code_desc">GitHubでリポジトリを開く</string>
+    <string name="settings_about">Lumen Gallery について</string>
+    <string name="settings_about_desc">バージョン 1.0.0 • GPLv3</string>
+
+    <!-- Restart dialog -->
+    <string name="restart_dialog_title">再起動が必要です</string>
+    <string name="restart_dialog_message">選択した言語を適用するには、アプリを再起動する必要があります。</string>
+    <string name="restart_action">今すぐ再起動</string>
+    <string name="later_action">後で</string>
+
+    <!-- Trash -->
+    <string name="trash_title">ゴミ箱</string>
+    <string name="empty_trash">ゴミ箱は空です</string>
+    <string name="action_restore">復元</string>
+    <string name="action_delete_permanently">完全に削除</string>
+    <string name="empty_trash_action">ゴミ箱を空にする</string>
+    <string name="delete_permanent_confirm_title">完全に削除しますか？</string>
+    <string name="delete_permanent_confirm_message">このファイルは端末から完全に消去されます。この操作は元に戻せません。</string>
+    <string name="empty_trash_confirm_message">ゴミ箱内のすべての項目を完全に削除してもよろしいですか？</string>
+</resources>

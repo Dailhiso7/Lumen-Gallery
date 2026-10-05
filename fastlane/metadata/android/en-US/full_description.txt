@@ -1,0 +1,14 @@
+Lumen Gallery is a clean, ultra-lightweight, and privacy-focused Android media gallery designed according to strict F-Droid standards.
+
+Key Features:
+• 100% Offline & Network Isolated: The application does not request the INTERNET permission. Your photos, videos, and private moments never leave your device.
+• Zero Tracking & Analytics: Completely free of Google Play Services, Firebase, telemetry, analytics SDKs, and advertisements.
+• Share Without Metadata: Strip camera information, device identifiers, and sensitive GPS location tags from photos before sharing them with third-party apps.
+• Chronological Timeline: Browse media organized by date with fluid multi-touch pinch-to-zoom (switch between 2 and 5 columns dynamically).
+• Albums & Folder Organization: Clean view of your media by local directories with cover previews.
+• Favorites: Mark and easily access your favorite memories.
+• Built-in Video Player: Smooth, hardware-accelerated playback with Media3 ExoPlayer.
+• Detailed EXIF Viewer: Inspect resolution, camera settings, ISO, focal length, exposure, and embedded GPS metadata.
+• Integrated Trash: View and manage deleted media with restore and permanent erase capabilities.
+• Multilingual Support: High-quality translations available in 10 languages (English, Russian, German, Spanish, French, Italian, Japanese, Simplified Chinese, Traditional Chinese, Korean).
+• Open Source: Fully licensed under the GNU General Public License v3 (GPL-3.0-or-later).

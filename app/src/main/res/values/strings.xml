@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Lumen Gallery</string>
+    <string name="nav_timeline">Timeline</string>
+    <string name="nav_albums">Albums</string>
+    <string name="nav_favorites">Favorites</string>
+    
+    <string name="permission_required_title">Storage Permission Required</string>
+    <string name="permission_required_desc">Lumen Gallery operates entirely offline and requires permission to access your local photos and videos on this device.</string>
+    <string name="grant_permission">Grant Access</string>
+    
+    <string name="empty_gallery">No photos or videos found</string>
+    <string name="empty_favorites">No favorites yet</string>
+    <string name="empty_albums">No albums found</string>
+    
+    <string name="action_share">Share</string>
+    <string name="action_share_clean">Share without metadata</string>
+    <string name="action_share_clean_desc">Strips EXIF, GPS location, camera model and device data before sharing.</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_unfavorite">Unfavorite</string>
+    <string name="action_details">Properties</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_rename">Rename</string>
+    
+    <string name="delete_confirm_title">Delete item?</string>
+    <string name="delete_confirm_message">This item will be moved to the trash or deleted.</string>
+    <string name="confirm_delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="rename_title">Rename file</string>
+    
+    <!-- EXIF dialog labels -->
+    <string name="exif_title">Details</string>
+    <string name="exif_date">Date &amp; Time</string>
+    <string name="exif_camera">Camera</string>
+    <string name="exif_parameters">Parameters</string>
+    <string name="exif_resolution">Resolution</string>
+    <string name="exif_file_size">File Size</string>
+    <string name="exif_file_path">Path</string>
+    <string name="exif_location">Location</string>
+    <string name="exif_no_location">No GPS data embedded</string>
+
+    <!-- Date headers -->
+    <string name="header_today">Today</string>
+    <string name="header_yesterday">Yesterday</string>
+
+    <!-- Settings & Language -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_trash_desc">View and manage deleted items</string>
+    <string name="settings_source_code">Source Code</string>
+    <string name="settings_source_code_desc">Open repository on GitHub</string>
+    <string name="settings_about">About Lumen Gallery</string>
+    <string name="settings_about_desc">Version 1.0.0 • GPLv3</string>
+
+    <!-- Restart dialog -->
+    <string name="restart_dialog_title">Restart Required</string>
+    <string name="restart_dialog_message">A restart is required to apply the selected language.</string>
+    <string name="restart_action">Restart Now</string>
+    <string name="later_action">Later</string>
+
+    <!-- Trash -->
+    <string name="trash_title">Trash</string>
+    <string name="empty_trash">Trash is empty</string>
+    <string name="action_restore">Restore</string>
+    <string name="action_delete_permanently">Delete permanently</string>
+    <string name="empty_trash_action">Empty Trash</string>
+    <string name="delete_permanent_confirm_title">Delete permanently?</string>
+    <string name="delete_permanent_confirm_message">This file will be permanently erased from your device. This action cannot be undone.</string>
+    <string name="empty_trash_confirm_message">Are you sure you want to permanently erase all items in the trash?</string>
+</resources>

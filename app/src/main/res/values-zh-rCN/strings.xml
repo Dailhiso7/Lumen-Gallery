@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Lumen Gallery</string>
+    <string name="nav_timeline">时间线</string>
+    <string name="nav_albums">相册</string>
+    <string name="nav_favorites">收藏</string>
+    
+    <string name="permission_required_title">需要存储访问权限</string>
+    <string name="permission_required_desc">Lumen Gallery 完全离线运行，需要获得权限以访问设备上的照片和视频。</string>
+    <string name="grant_permission">授予权限</string>
+    
+    <string name="empty_gallery">未找到照片或视频</string>
+    <string name="empty_favorites">暂无收藏</string>
+    <string name="empty_albums">未找到相册</string>
+    
+    <string name="action_share">分享</string>
+    <string name="action_share_clean">无元数据分享</string>
+    <string name="action_share_clean_desc">分享前去除 EXIF、GPS 位置、相机型号及设备信息。</string>
+    <string name="action_favorite">收藏</string>
+    <string name="action_unfavorite">取消收藏</string>
+    <string name="action_details">属性</string>
+    <string name="action_delete">删除</string>
+    <string name="action_rename">重命名</string>
+    
+    <string name="delete_confirm_title">删除项目？</string>
+    <string name="delete_confirm_message">此项目将被移动到回收站或直接删除。</string>
+    <string name="confirm_delete">删除</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="rename_title">重命名文件</string>
+    
+    <!-- EXIF dialog labels -->
+    <string name="exif_title">详细信息</string>
+    <string name="exif_date">日期与时间</string>
+    <string name="exif_camera">相机</string>
+    <string name="exif_parameters">拍摄参数</string>
+    <string name="exif_resolution">分辨率</string>
+    <string name="exif_file_size">文件大小</string>
+    <string name="exif_file_path">路径</string>
+    <string name="exif_location">位置</string>
+    <string name="exif_no_location">无 GPS 数据</string>
+
+    <!-- Date headers -->
+    <string name="header_today">今天</string>
+    <string name="header_yesterday">昨天</string>
+
+    <!-- Settings & Language -->
+    <string name="settings_title">设置</string>
+    <string name="settings_language">语言</string>
+    <string name="settings_trash_desc">查看和管理已删除项目</string>
+    <string name="settings_source_code">源代码</string>
+    <string name="settings_source_code_desc">在 GitHub 上查看源码</string>
+    <string name="settings_about">关于 Lumen Gallery</string>
+    <string name="settings_about_desc">版本 1.0.0 • GPLv3</string>
+
+    <!-- Restart dialog -->
+    <string name="restart_dialog_title">需要重启</string>
+    <string name="restart_dialog_message">需要重启应用以应用所选语言。</string>
+    <string name="restart_action">立即重启</string>
+    <string name="later_action">稍后</string>
+
+    <!-- Trash -->
+    <string name="trash_title">回收站</string>
+    <string name="empty_trash">回收站为空</string>
+    <string name="action_restore">恢复</string>
+    <string name="action_delete_permanently">永久删除</string>
+    <string name="empty_trash_action">清空回收站</string>
+    <string name="delete_permanent_confirm_title">永久删除？</string>
+    <string name="delete_permanent_confirm_message">此文件将从您的设备中彻底抹除，此操作无法撤销。</string>
+    <string name="empty_trash_confirm_message">确定要彻底清空回收站中的所有项目吗？</string>
+</resources>

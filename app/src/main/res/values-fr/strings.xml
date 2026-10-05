@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Lumen Gallery</string>
+    <string name="nav_timeline">Chronologie</string>
+    <string name="nav_albums">Albums</string>
+    <string name="nav_favorites">Favoris</string>
+    
+    <string name="permission_required_title">Autorisation de stockage requise</string>
+    <string name="permission_required_desc">Lumen Gallery fonctionne entièrement hors ligne et nécessite l\'autorisation d\'accéder à vos photos et vidéos locales.</string>
+    <string name="grant_permission">Accorder l\'accès</string>
+    
+    <string name="empty_gallery">Aucune photo ni vidéo trouvée</string>
+    <string name="empty_favorites">Aucun favori pour le moment</string>
+    <string name="empty_albums">Aucun album trouvé</string>
+    
+    <string name="action_share">Partager</string>
+    <string name="action_share_clean">Partager sans métadonnées</string>
+    <string name="action_share_clean_desc">Supprime les données EXIF, GPS, modèle d\'appareil photo et informations de l\'appareil avant le partage.</string>
+    <string name="action_favorite">Favori</string>
+    <string name="action_unfavorite">Retirer des favoris</string>
+    <string name="action_details">Propriétés</string>
+    <string name="action_delete">Supprimer</string>
+    <string name="action_rename">Renommer</string>
+    
+    <string name="delete_confirm_title">Supprimer l\'élément ?</string>
+    <string name="delete_confirm_message">Cet élément sera déplacé vers la corbeille ou supprimé.</string>
+    <string name="confirm_delete">Supprimer</string>
+    <string name="cancel">Annuler</string>
+    <string name="save">Enregistrer</string>
+    <string name="rename_title">Renommer le fichier</string>
+    
+    <!-- EXIF dialog labels -->
+    <string name="exif_title">Détails</string>
+    <string name="exif_date">Date et heure</string>
+    <string name="exif_camera">Appareil photo</string>
+    <string name="exif_parameters">Paramètres de prise de vue</string>
+    <string name="exif_resolution">Résolution</string>
+    <string name="exif_file_size">Taille du fichier</string>
+    <string name="exif_file_path">Chemin d\'accès</string>
+    <string name="exif_location">Localisation</string>
+    <string name="exif_no_location">Aucune donnée GPS intégrée</string>
+
+    <!-- Date headers -->
+    <string name="header_today">Aujourd\'hui</string>
+    <string name="header_yesterday">Hier</string>
+
+    <!-- Settings & Language -->
+    <string name="settings_title">Paramètres</string>
+    <string name="settings_language">Langue</string>
+    <string name="settings_trash_desc">Afficher et gérer les éléments supprimés</string>
+    <string name="settings_source_code">Code source</string>
+    <string name="settings_source_code_desc">Ouvrir le dépôt sur GitHub</string>
+    <string name="settings_about">À propos de Lumen Gallery</string>
+    <string name="settings_about_desc">Version 1.0.0 • GPLv3</string>
+
+    <!-- Restart dialog -->
+    <string name="restart_dialog_title">Redémarrage requis</string>
+    <string name="restart_dialog_message">Un redémarrage est nécessaire pour appliquer la langue sélectionnée.</string>
+    <string name="restart_action">Redémarrer</string>
+    <string name="later_action">Plus tard</string>
+
+    <!-- Trash -->
+    <string name="trash_title">Corbeille</string>
+    <string name="empty_trash">La corbeille est vide</string>
+    <string name="action_restore">Restaurer</string>
+    <string name="action_delete_permanently">Supprimer définitivement</string>
+    <string name="empty_trash_action">Vider la corbeille</string>
+    <string name="delete_permanent_confirm_title">Supprimer définitivement ?</string>
+    <string name="delete_permanent_confirm_message">Ce fichier sera définitivement effacé de votre appareil. Cette action est irréversible.</string>
+    <string name="empty_trash_confirm_message">Voulez-vous vraiment supprimer définitivement tous les éléments de la corbeille ?</string>
+</resources>

@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Lumen Gallery</string>
+    <string name="nav_timeline">Лента</string>
+    <string name="nav_albums">Альбомы</string>
+    <string name="nav_favorites">Избранное</string>
+    
+    <string name="permission_required_title">Требуется доступ к хранилищу</string>
+    <string name="permission_required_desc">Lumen Gallery работает полностью офлайн и требует разрешение для доступа к вашим локальным фото и видео на этом устройстве.</string>
+    <string name="grant_permission">Предоставить доступ</string>
+    
+    <string name="empty_gallery">Фото и видео не найдены</string>
+    <string name="empty_favorites">В избранном пока ничего нет</string>
+    <string name="empty_albums">Альбомы не найдены</string>
+    
+    <string name="action_share">Поделиться</string>
+    <string name="action_share_clean">Поделиться без метаданных</string>
+    <string name="action_share_clean_desc">Удаляет EXIF, GPS-координаты, модель камеры и серийные номера перед отправкой.</string>
+    <string name="action_favorite">В избранное</string>
+    <string name="action_unfavorite">Из избранного</string>
+    <string name="action_details">Свойства</string>
+    <string name="action_delete">Удалить</string>
+    <string name="action_rename">Переименовать</string>
+    
+    <string name="delete_confirm_title">Удалить объект?</string>
+    <string name="delete_confirm_message">Этот объект будет перемещен в корзину или удален.</string>
+    <string name="confirm_delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="rename_title">Переименование файла</string>
+    
+    <!-- EXIF dialog labels -->
+    <string name="exif_title">Сведения</string>
+    <string name="exif_date">Дата и время</string>
+    <string name="exif_camera">Камера</string>
+    <string name="exif_parameters">Параметры съемки</string>
+    <string name="exif_resolution">Разрешение</string>
+    <string name="exif_file_size">Размер файла</string>
+    <string name="exif_file_path">Путь к файлу</string>
+    <string name="exif_location">Геолокация</string>
+    <string name="exif_no_location">GPS-метки отсутствуют</string>
+
+    <!-- Date headers -->
+    <string name="header_today">Сегодня</string>
+    <string name="header_yesterday">Вчера</string>
+
+    <!-- Settings & Language -->
+    <string name="settings_title">Настройки</string>
+    <string name="settings_language">Язык приложения</string>
+    <string name="settings_trash_desc">Просмотр и управление удаленными объектами</string>
+    <string name="settings_source_code">Исходный код</string>
+    <string name="settings_source_code_desc">Открыть репозиторий на GitHub</string>
+    <string name="settings_about">О приложении</string>
+    <string name="settings_about_desc">Версия 1.0.0 • Лицензия GPLv3</string>
+
+    <!-- Restart dialog -->
+    <string name="restart_dialog_title">Требуется перезапуск</string>
+    <string name="restart_dialog_message">Для применения выбранного языка необходимо перезапустить приложение.</string>
+    <string name="restart_action">Перезапустить</string>
+    <string name="later_action">Позже</string>
+
+    <!-- Trash (Корзина) -->
+    <string name="trash_title">Корзина</string>
+    <string name="empty_trash">Корзина пуста</string>
+    <string name="action_restore">Восстановить</string>
+    <string name="action_delete_permanently">Удалить навсегда</string>
+    <string name="empty_trash_action">Очистить корзину</string>
+    <string name="delete_permanent_confirm_title">Удалить навсегда?</string>
+    <string name="delete_permanent_confirm_message">Этот файл будет безвозвратно удален с вашего устройства. Это действие нельзя отменить.</string>
+    <string name="empty_trash_confirm_message">Вы уверены, что хотите окончательно удалить все объекты из корзины?</string>
+</resources>

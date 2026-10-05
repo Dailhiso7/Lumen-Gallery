@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Lumen Gallery</string>
+    <string name="nav_timeline">Línea de tiempo</string>
+    <string name="nav_albums">Álbumes</string>
+    <string name="nav_favorites">Favoritos</string>
+    
+    <string name="permission_required_title">Permiso de almacenamiento requerido</string>
+    <string name="permission_required_desc">Lumen Gallery funciona totalmente sin conexión y requiere permiso para acceder a sus fotos y vídeos locales.</string>
+    <string name="grant_permission">Conceder acceso</string>
+    
+    <string name="empty_gallery">No se encontraron fotos ni vídeos</string>
+    <string name="empty_favorites">Aún no hay favoritos</string>
+    <string name="empty_albums">No se encontraron álbumes</string>
+    
+    <string name="action_share">Compartir</string>
+    <string name="action_share_clean">Compartir sin metadatos</string>
+    <string name="action_share_clean_desc">Elimina EXIF, ubicación GPS, modelo de cámara y datos del dispositivo antes de compartir.</string>
+    <string name="action_favorite">Favorito</string>
+    <string name="action_unfavorite">Quitar de favoritos</string>
+    <string name="action_details">Propiedades</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_rename">Renombrar</string>
+    
+    <string name="delete_confirm_title">¿Eliminar elemento?</string>
+    <string name="delete_confirm_message">Este elemento se moverá a la papelera o se eliminará.</string>
+    <string name="confirm_delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="rename_title">Renombrar archivo</string>
+    
+    <!-- EXIF dialog labels -->
+    <string name="exif_title">Detalles</string>
+    <string name="exif_date">Fecha y hora</string>
+    <string name="exif_camera">Cámara</string>
+    <string name="exif_parameters">Parámetros de disparo</string>
+    <string name="exif_resolution">Resolución</string>
+    <string name="exif_file_size">Tamaño del archivo</string>
+    <string name="exif_file_path">Ruta</string>
+    <string name="exif_location">Ubicación</string>
+    <string name="exif_no_location">Sin datos GPS incrustados</string>
+
+    <!-- Date headers -->
+    <string name="header_today">Hoy</string>
+    <string name="header_yesterday">Ayer</string>
+
+    <!-- Settings & Language -->
+    <string name="settings_title">Ajustes</string>
+    <string name="settings_language">Idioma</string>
+    <string name="settings_trash_desc">Ver y administrar elementos eliminados</string>
+    <string name="settings_source_code">Código fuente</string>
+    <string name="settings_source_code_desc">Abrir repositorio en GitHub</string>
+    <string name="settings_about">Acerca de Lumen Gallery</string>
+    <string name="settings_about_desc">Versión 1.0.0 • GPLv3</string>
+
+    <!-- Restart dialog -->
+    <string name="restart_dialog_title">Reinicio necesario</string>
+    <string name="restart_dialog_message">Es necesario reiniciar la aplicación para aplicar el idioma seleccionado.</string>
+    <string name="restart_action">Reiniciar ahora</string>
+    <string name="later_action">Más tarde</string>
+
+    <!-- Trash -->
+    <string name="trash_title">Papelera</string>
+    <string name="empty_trash">La papelera está vacía</string>
+    <string name="action_restore">Restaurar</string>
+    <string name="action_delete_permanently">Eliminar permanentemente</string>
+    <string name="empty_trash_action">Vaciar papelera</string>
+    <string name="delete_permanent_confirm_title">¿Eliminar permanentemente?</string>
+    <string name="delete_permanent_confirm_message">Este archivo se borrará permanentemente de su dispositivo. Esta acción no se puede deshacer.</string>
+    <string name="empty_trash_confirm_message">¿Está seguro de que desea eliminar permanentemente todos los elementos de la papelera?</string>
+</resources>
